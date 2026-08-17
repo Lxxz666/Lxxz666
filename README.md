@@ -58,20 +58,24 @@
 
 ## 🚀 Featured Projects
 
-<p align="center"><i>🚧 正在整理中，即将上线 —— 敬请期待 ⏳</i></p>
-
-<!-- 项目上线后在此展示置顶卡片：
 <table align="center">
   <tr>
     <td align="center" width="50%">
-      <a href="https://github.com/Lxxz666/<repo>">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Lxxz666&repo=<repo>&theme=github_dark&hide_border=true" />
+      <a href="https://github.com/Lxxz666/DSH-wanter-python">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Lxxz666&repo=DSH-wanter-python&theme=github_dark&hide_border=true&show_owner=false" />
       </a>
-      <br/><b>📚 项目名</b><br/>一句话简介
+      <br/><b>🌊 DSH-wanter-python · 会「侵蚀地形」的 Agent 框架</b>
+      <br/>DeepSeek Harness 的 Python 重实现：插件内核 + 事件溯源 + 五段工具管线，
+      <br/>自带 <b>wanter</b>（water+ant）物理经验层——纯梯度 0% 逃逸、加噪声 0%，
+      <br/><b>wanter 100% 逃逸</b>，路径复用 ≈30× 加速；216 测试 · 21 章手册。
+      <br/>
+      <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="python" />
+      <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white" alt="fastapi" />
+      <img src="https://img.shields.io/badge/pytest-216%20passed-brightgreen" alt="tests" />
+      <img src="https://img.shields.io/badge/wanter-100%25%20%E9%80%83%E9%80%B8-4ade80" alt="wanter" />
     </td>
   </tr>
 </table>
--->
 
 <!-- ========== 渐变波浪分隔条（紫→粉） ========== -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:A855F7,100:FF6B6B&height=40&section=header" width="100%" alt="wave divider" />
