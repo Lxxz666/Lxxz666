@@ -1,12 +1,13 @@
 <div align="center">
 
-<!-- ========== 波浪头图（Hey there 👋） ========== -->
+<!-- ========== 顶部波浪（Hey there 👋） ========== -->
 <a href="https://github.com/Lxxz666">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0969DA&height=140&section=header&text=Hey%20there%20%F0%9F%91%8B&fontSize=45&fontAlignY=40&desc=Lxxz666&descAlignY=65" alt="header wave" />
 </a>
 
 <h1 align="center">李祥洲 · Lxxz666</h1>
 
+<!-- ========== 逐字生成特效（科技感） ========== -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Computer%20Vision%20|%20YOLO%20%E7%9B%AE%E6%A0%87%E6%A3%80%E6%B5%8B%20%C2%B7%20OpenCV;Full-Stack%20Developer%20|%20%E5%85%A8%E6%A0%88%E5%BC%80%E5%8F%91;AI%20%26%20LLM%20Engineer%20|%20AI%2F%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%B7%A5%E7%A8%8B%E5%B8%88;Deep%20Learning%20Practitioner%20|%20%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%AE%9E%E8%B7%B5%E8%80%85;Building%20real%20products%20with%20cool%20tech%20%E2%9A%A1&font=Fira+Code&center=true&width=580&height=55&color=58A6FF&vCenter=true&pause=1200&size=20" alt="Typing SVG" />
 </p>
@@ -16,11 +17,6 @@
   <img src="https://komarev.com/ghpvc/?username=Lxxz666&color=0969DA&style=flat-square&label=Profile+Views" alt="views" />
   <img src="https://img.shields.io/badge/%F0%9F%8E%93%20%E5%B1%B1%E4%B8%9C%E7%90%86%E5%B7%A5%E5%A4%A7%E5%AD%A6-%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E4%B8%93%E4%B8%9A-0969DA?style=flat-square" alt="school" />
 </p>
-
-<!-- ========== 粒子动画横幅（GIF，100% 可靠渲染） ========== -->
-<a href="https://github.com/Lxxz666">
-  <img width="100%" src="assets/particles-header.gif" alt="particles animation" />
-</a>
 
 </div>
 
@@ -32,7 +28,7 @@
 >
 > ⚡ 全栈能力闭环：Python 后端 · Vue3 前端 · GPU 推理优化（CUDA/TensorRT）· Docker/Nginx 部署
 
-<!-- ========== 联系我（提前） ========== -->
+<!-- ========== 联系我 ========== -->
 
 ## 📫 Contact
 
@@ -41,6 +37,9 @@
   <a href="mailto:lixiangzhou2026@qq.com"><img src="https://img.shields.io/badge/📧%20Email-lixiangzhou2026%40qq.com-0969DA?style=for-the-badge" alt="email" /></a>
   <a href="https://github.com/Lxxz666"><img src="https://img.shields.io/badge/GitHub-Lxxz666-0969DA?style=for-the-badge&logo=github&logoColor=white" alt="github" /></a>
 </p>
+
+<!-- ========== 波浪分隔条 ========== -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0969DA&height=40&section=header" width="100%" alt="wave divider" />
 
 <!-- ========== 技术栈（标签化） ========== -->
 
@@ -73,13 +72,15 @@
 </table>
 -->
 
+<!-- ========== 波浪分隔条 ========== -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0969DA&height=40&section=header" width="100%" alt="wave divider" />
+
 <!-- ========== GitHub 数据 ========== -->
 
 ## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://img.shields.io/github/followers/Lxxz666?style=for-the-badge&color=0969DA&label=Followers" alt="followers" />
-  <img src="https://img.shields.io/github/repos/Lxxz666?style=for-the-badge&color=0969DA&label=Public+Repos" alt="repos" />
   <img src="https://img.shields.io/github/stars/Lxxz666?style=for-the-badge&color=0969DA&label=Total+Stars" alt="stars" />
 </p>
 
