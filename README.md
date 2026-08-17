@@ -44,22 +44,20 @@
 
 ## 🚀 Featured Projects
 
+<p align="center"><i>🚧 正在整理中，即将上线 —— 敬请期待 ⏳</i></p>
+
+<!-- 项目上线后在此展示置顶卡片：
 <table align="center">
   <tr>
     <td align="center" width="50%">
-      <a href="https://github.com/Lxxz666/ai-answer-system">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Lxxz666&repo=ai-answer-system&theme=github_dark&hide_border=true" />
+      <a href="https://github.com/Lxxz666/<repo>">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Lxxz666&repo=<repo>&theme=github_dark&hide_border=true" />
       </a>
-      <br/><b>📚 智能答题系统</b><br/>BGE-M3 向量检索 RAG · 多智能体 · 四渠道接入
-    </td>
-    <td align="center" width="50%">
-      <a href="https://github.com/Lxxz666/traffic-sign-detection">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Lxxz666&repo=traffic-sign-detection&theme=github_dark&hide_border=true" />
-      </a>
-      <br/><b>🚗 交通标志实时识别</b><br/>YOLOv8s · TensorRT · CUDA · 8ms 推理 · 117类
+      <br/><b>📚 项目名</b><br/>一句话简介
     </td>
   </tr>
 </table>
+-->
 
 <!-- ========== GitHub 统计 ========== -->
 
