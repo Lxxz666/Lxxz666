@@ -1,8 +1,8 @@
 <div align="center">
 
-<!-- ========== 粒子动画头图（SMIL 动画，GitHub 原生渲染） ========== -->
+<!-- ========== 波浪头图（Hey there 👋） ========== -->
 <a href="https://github.com/Lxxz666">
-  <img width="100%" src="assets/particles-header.svg" alt="particles-header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0969DA&height=140&section=header&text=Hey%20there%20%F0%9F%91%8B&fontSize=45&fontAlignY=40&desc=Lxxz666&descAlignY=65" alt="header wave" />
 </a>
 
 <h1 align="center">李祥洲 · Lxxz666</h1>
@@ -16,6 +16,11 @@
   <img src="https://komarev.com/ghpvc/?username=Lxxz666&color=0969DA&style=flat-square&label=Profile+Views" alt="views" />
   <img src="https://img.shields.io/badge/%F0%9F%8E%93%20%E5%B1%B1%E4%B8%9C%E7%90%86%E5%B7%A5%E5%A4%A7%E5%AD%A6-%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E4%B8%93%E4%B8%9A-0969DA?style=flat-square" alt="school" />
 </p>
+
+<!-- ========== 粒子动画横幅（GIF，100% 可靠渲染） ========== -->
+<a href="https://github.com/Lxxz666">
+  <img width="100%" src="assets/particles-header.gif" alt="particles animation" />
+</a>
 
 </div>
 
@@ -68,13 +73,14 @@
 </table>
 -->
 
-<!-- ========== GitHub 统计 ========== -->
+<!-- ========== GitHub 数据 ========== -->
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Lxxz666&show_icons=true&theme=github_dark&hide_border=true&count_private=true&rank_icon=percentile" height="170" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lxxz666&layout=compact&theme=github_dark&hide_border=true&langs_count=8" height="170" alt="languages" />
+  <img src="https://img.shields.io/github/followers/Lxxz666?style=for-the-badge&color=0969DA&label=Followers" alt="followers" />
+  <img src="https://img.shields.io/github/repos/Lxxz666?style=for-the-badge&color=0969DA&label=Public+Repos" alt="repos" />
+  <img src="https://img.shields.io/github/stars/Lxxz666?style=for-the-badge&color=0969DA&label=Total+Stars" alt="stars" />
 </p>
 
 <p align="center">
@@ -82,5 +88,5 @@
 </p>
 
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0969DA&height=100&section=footer" alt="footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0969DA&height=100&section=footer" alt="footer wave" />
 </div>
