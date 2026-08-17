@@ -15,14 +15,13 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Lxxz666&color=0969DA&style=flat-square&label=Profile+Views" alt="views" />
   <img src="https://img.shields.io/badge/%F0%9F%8E%93%20%E5%B1%B1%E4%B8%9C%E7%90%86%E5%B7%A5%E5%A4%A7%E5%AD%A6-%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E4%B8%93%E4%B8%9A-0969DA?style=flat-square" alt="school" />
-  <img src="https://img.shields.io/badge/%F0%9F%94%8D%20%E5%8C%97%E4%BA%AC%20-100000?style=flat-square" alt="location" />
 </p>
 
 </div>
 
 <!-- ========== 一句话简介 ========== -->
 
-> 🎓 **山东理工大学 · 人工智能专业（2022–2026）** | 应届生 · 求职 **Java 后端 / 全栈 / AI 应用**
+> 🎓 **山东理工大学 · 人工智能专业（2022–2026）** | 应届生 · 求职 **全栈 / AI 应用 / 计算机视觉（YOLO 目标检测）**
 >
 > 🔭 专注把 **大模型 & 深度学习** 落地成真实产品：BGE-M3 向量检索 RAG 答题系统 · YOLOv8+TensorRT 毫秒级实时识别
 >
