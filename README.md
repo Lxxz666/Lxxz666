@@ -61,6 +61,29 @@
 <table align="center">
   <tr>
     <td align="center" width="50%">
+      <a href="https://github.com/Lxxz666/lxz-25buy">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Lxxz666&repo=lxz-25buy&theme=github_dark&hide_border=true&show_owner=true" />
+      </a>
+      <br/><b><a href="https://github.com/Lxxz666/lxz-25buy">🐉 lxz-25buy · 25算法A股量化预测交易框架</a></b>
+      <br/>纯Python零依赖 · 真实行情驱动 · 永久自学习 · 实盘级风控，
+      <br/>25个算法六层架构，23个标准化因子加权合成评分；
+      <br/>梯度下降 + 岭回归自进化，支持模拟盘与 LLM Agent 全自动运行。
+      <br/>
+      <a href="https://github.com/Lxxz666/lxz-25buy">
+        <img src="https://img.shields.io/badge/🔗%20查看项目-README%20·%20docs%20·%20ALGORITHMS-20E3B2?style=for-the-badge" alt="open project" />
+      </a>
+      <br/>
+      <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="python" />
+      <img src="https://img.shields.io/badge/dependencies-0-orange" alt="zero-dep" />
+      <img src="https://img.shields.io/badge/tests-20%20passed-brightgreen" alt="tests" />
+      <img src="https://img.shields.io/badge/algorithms-25-blue" alt="algorithms" />
+    </td>
+  </tr>
+</table>
+
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
       <a href="https://github.com/Lxxz666/DSH-wanter-python">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=Lxxz666&repo=DSH-wanter-python&theme=github_dark&hide_border=true&show_owner=false" />
       </a>
