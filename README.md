@@ -46,22 +46,13 @@
 
 ## 🛠️ Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,python,fastapi,cpp,qt,tensorflow,opencv,vue,vite,typescript,mysql,postgres,redis,docker,git,nginx&perline=9" alt="tech icons" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white&style=flat-square" alt="pytorch" />
-  <img src="https://img.shields.io/badge/YOLOv8-00FFFF?logo=yolo&logoColor=black&style=flat-square" alt="yolo" />
-  <img src="https://img.shields.io/badge/TensorRT-76B900?logo=nvidia&logoColor=white&style=flat-square" alt="tensorrt" />
-  <img src="https://img.shields.io/badge/CUDA-76B900?logo=nvidia&logoColor=white&style=flat-square" alt="cuda" />
-  <img src="https://img.shields.io/badge/RAG-0969DA?logo=openai&logoColor=white&style=flat-square" alt="rag" />
-  <img src="https://img.shields.io/badge/Multi--Agent-6F42C1?logo=robotframework&logoColor=white&style=flat-square" alt="multiagent" />
-  <img src="https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white&style=flat-square" alt="sqlite" />
-  <img src="https://img.shields.io/badge/pgvector-336791?logo=postgresql&logoColor=white&style=flat-square" alt="pgvector" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=flat-square" alt="linux" />
-  <img src="https://img.shields.io/badge/MinIO-C72E49?logo=minio&logoColor=white&style=flat-square" alt="minio" />
-</p>
+| 方向 | 技术 |
+|:---|:---|
+| **Backend** | ![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white) ![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?logo=springboot&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=white) ![Qt](https://img.shields.io/badge/Qt-41CD52?logo=qt&logoColor=white) |
+| **AI / LLM** | ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white) ![YOLO](https://img.shields.io/badge/YOLOv8-00FFFF?logo=yolo&logoColor=black) ![TensorRT](https://img.shields.io/badge/TensorRT-76B900?logo=nvidia&logoColor=white) ![CUDA](https://img.shields.io/badge/CUDA-76B900?logo=nvidia&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white) ![RAG](https://img.shields.io/badge/RAG-0969DA?logo=openai&logoColor=white) ![Multi-Agent](https://img.shields.io/badge/Multi--Agent-6F42C1?logo=robotframework&logoColor=white) |
+| **Frontend** | ![Vue3](https://img.shields.io/badge/Vue3-4FC08D?logo=vuedotjs&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white) ![ElementPlus](https://img.shields.io/badge/ElementPlus-409EFF?logo=element&logoColor=white) ![ECharts](https://img.shields.io/badge/ECharts-AA344D?logo=apacheecharts&logoColor=white) |
+| **Database** | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white) ![pgvector](https://img.shields.io/badge/pgvector-336791?logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white) ![MinIO](https://img.shields.io/badge/MinIO-C72E49?logo=minio&logoColor=white) |
+| **DevOps** | ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white) ![Nginx](https://img.shields.io/badge/Nginx-009639?logo=nginx&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black) ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white) |
 
 <!-- ========== 精选项目 ========== -->
 
