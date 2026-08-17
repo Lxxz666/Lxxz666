@@ -64,10 +64,14 @@
       <a href="https://github.com/Lxxz666/DSH-wanter-python">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=Lxxz666&repo=DSH-wanter-python&theme=github_dark&hide_border=true&show_owner=false" />
       </a>
-      <br/><b>🌊 DSH-wanter-python · 会「侵蚀地形」的 Agent 框架</b>
+      <br/><b><a href="https://github.com/Lxxz666/DSH-wanter-python">🌊 DSH-wanter-python · 会「侵蚀地形」的 Agent 框架</a></b>
       <br/>DeepSeek Harness 的 Python 重实现：插件内核 + 事件溯源 + 五段工具管线，
       <br/>自带 <b>wanter</b>（water+ant）物理经验层——纯梯度 0% 逃逸、加噪声 0%，
       <br/><b>wanter 100% 逃逸</b>，路径复用 ≈30× 加速；216 测试 · 21 章手册。
+      <br/>
+      <a href="https://github.com/Lxxz666/DSH-wanter-python">
+        <img src="https://img.shields.io/badge/🔗%20查看项目-WANTER.md%20·%20README%20·%20图表-20E3B2?style=for-the-badge" alt="open project" />
+      </a>
       <br/>
       <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="python" />
       <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white" alt="fastapi" />
