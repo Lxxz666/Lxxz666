@@ -104,6 +104,29 @@
   </tr>
 </table>
 
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/Lxxz666/dsh-red-blue-team">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Lxxz666&repo=dsh-red-blue-team&theme=github_dark&hide_border=true&show_owner=false" />
+      </a>
+      <br/><b><a href="https://github.com/Lxxz666/dsh-red-blue-team">🔴🔵 dsh-red-blue-team · 智能红蓝对抗安全检测系统</a></b>
+      <br/>基于 dsh-wanter-python 二次开发：主Agent派发子Agent<b>并行攻击</b>业务系统，
+      <br/>12 大业务场景适配 · 68 攻击样本 × 51 类别 · 确定性判定<b>零误报</b>；
+      <br/>自动修复+回归清零，靶场 37 个埋入漏洞<b>发现率 100%</b>，314 项测试全绿。
+      <br/>
+      <a href="https://github.com/Lxxz666/dsh-red-blue-team">
+        <img src="https://img.shields.io/badge/🔗%20查看项目-README%20·%20ARCHITECTURE%20·%20SCENARIOS-20E3B2?style=for-the-badge" alt="open project" />
+      </a>
+      <br/>
+      <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="python" />
+      <img src="https://img.shields.io/badge/Multi--Agent-6F42C1?logo=robotframework&logoColor=white" alt="multi-agent" />
+      <img src="https://img.shields.io/badge/pytest-314%20passed-brightgreen" alt="tests" />
+      <img src="https://img.shields.io/badge/%E5%8F%91%E7%8E%B0%E7%8E%87-100%25-4ade80" alt="detection" />
+    </td>
+  </tr>
+</table>
+
 <!-- ========== 渐变波浪分隔条（紫→粉） ========== -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:A855F7,100:FF6B6B&height=40&section=header" width="100%" alt="wave divider" />
 
