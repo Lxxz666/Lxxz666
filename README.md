@@ -127,6 +127,30 @@
   </tr>
 </table>
 
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/Lxxz666/Nexus">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Lxxz666&repo=Nexus&theme=github_dark&hide_border=true&show_owner=false" />
+      </a>
+      <br/><b><a href="https://github.com/Lxxz666/Nexus">🧠 Nexus · 多智能体协同业务评审系统</a></b>
+      <br/>通用多 Agent 评测平台：上传源码自动识别 Agent，
+      <br/>按 <b>4 大维度 65 项指标</b>真实执行轨迹 + LLM 裁判打分，
+      <br/>支持架构图自动生成与分层 HTML 报告导出。
+      <br/>
+      <a href="https://github.com/Lxxz666/Nexus">
+        <img src="https://img.shields.io/badge/🔗%20查看项目-README%20·%20开发手册-20E3B2?style=for-the-badge" alt="open project" />
+      </a>
+      <br/>
+      <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="python" />
+      <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white" alt="fastapi" />
+      <img src="https://img.shields.io/badge/Multi--Agent-6F42C1?logo=robotframework&logoColor=white" alt="multi-agent" />
+      <img src="https://img.shields.io/badge/LangGraph-00C2FF?logo=langgraph&logoColor=white" alt="langgraph" />
+      <img src="https://img.shields.io/badge/RAG-0969DA?logo=openai&logoColor=white" alt="rag" />
+    </td>
+  </tr>
+</table>
+
 <!-- ========== 渐变波浪分隔条（紫→粉） ========== -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:A855F7,100:FF6B6B&height=40&section=header" width="100%" alt="wave divider" />
 
