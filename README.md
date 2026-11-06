@@ -58,6 +58,16 @@
 
 ## 🚀 Featured Projects
 
+### 山河入卷 · Weblog Framework
+
+[![水墨交互博客：合成数据演示](https://raw.githubusercontent.com/Lxxz666/lxzweblog-framework/main/docs/images/synthetic-home.png)](https://github.com/Lxxz666/lxzweblog-framework)
+
+**让文章成为有出处的回答。** Java21 / Spring Boot4 + Vue3 水墨交互博客；MySQL事务Outbox → BGE本地Embedding → pgvector，附受控知识客服与私有Obsidian回写桥。
+
+[查看干净框架与运行说明 →](https://github.com/Lxxz666/lxzweblog-framework) · 仅合成演示，无个人文章、真实账号或服务器凭据；教程来源与许可边界已明确保留。
+
+
+
 <table align="center">
   <tr>
     <td align="center" width="50%">
